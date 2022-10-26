@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reza Dadrezaei
-- 👀 I’m interested in .Net and pure javascript
+- 💞️ I’m interested in .Net and pure javascript
 - 🌱 I’m currently learning Azure Cloud
-- 💞️ I’m looking to collaborate on .Net projects
+- 👀 I’m looking to collaborate on .Net projects
 - 📫 You can reach me on https://www.linkedin.com/in/dadrezaei/
 
 <!---
